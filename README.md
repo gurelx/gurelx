@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurelx
 - 👀 I’m interested in becoming a software dev!
-- 🌱 I’m currently learning OOP principles (C++) Web development (HTML/CSS/JS), and Database development (Oracle SQL, MongoDB)
+- 🌱 I’m currently learning Data Structures and Algorithms in Python!
 - 📫 Just send an [email](mailto:gurelsezgin06@gmail.com) to me!
 
 <!---
