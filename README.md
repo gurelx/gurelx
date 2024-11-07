@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @gurelx
-- 👀 I’m interested in becoming a software dev!
-- 🌱 I’m currently learning Data Structures and Algorithms in Python!
 - 📫 Just send an [email](mailto:gurelsezgin06@gmail.com) to me!
 
 <!---
